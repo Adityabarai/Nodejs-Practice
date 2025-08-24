@@ -1,0 +1,23 @@
+{
+  "name": "node-2025",
+  "version": "1.0.0",
+  "description": "node js practice 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityabarai/Nodejs-Practice.git"
+  },
+  "author": "aditya barai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adityabarai/Nodejs-Practice/issues"
+  },
+  "homepage": "https://github.com/Adityabarai/Nodejs-Practice#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
